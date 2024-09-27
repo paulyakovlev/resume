@@ -1,0 +1,10 @@
+### Packages:
+ - pandoc
+ - pdflatex
+
+### Usage:
+Markdown to PDF:
+`pandoc resume.md -o resume.pdf`
+
+Latex to PDF:
+`pdflatex resume.tex`
